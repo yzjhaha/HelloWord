@@ -1,0 +1,4 @@
+1、安装好系统框架
+2、复制zh_dianc到系统的addons文件夹下
+3、复制web/store.php下的到系统的web文件夹下
+4、wxapp文件夹是小程序代码
